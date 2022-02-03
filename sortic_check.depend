@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1643880424 source:d:\homework\sortic_check\functions.cpp
+	"sortic_check.h"
+
+1643880284 d:\homework\sortic_check\sortic_check.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	<fstream>
+
+1643110390 source:d:\homework\sortic_check\itc_funcs.cpp
+	"sortic_check.h"
+
+1643880643 source:d:\homework\sortic_check\main.cpp
+	"sortic_check.h"
+
+1643880425 source:d:\homework\sortic_check\functions_funny.cpp
+	"sortic_check.h"
+
+1643880422 source:d:\homework\sortic_check\funnier_functions.cpp
+	"sortic_check.h"
+
